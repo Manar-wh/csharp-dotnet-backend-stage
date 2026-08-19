@@ -32,7 +32,7 @@ This repository covers Courses 14 to 24 + API Development:
 ├── Course-16-OOP-In-CSharp/
 ├── Course-17-Database-Project/
 └── ...
-
+```
 🛠️ Tech & Concepts
 Languages: C#, SQL, T-SQL
 
